@@ -20,10 +20,11 @@
         </dependency>
   </dependencies>
   <distributionManagement>
+
    <repository>
-     <id>nexus</id>
-     <name>chinni releases repo</name>
-     <url>http://18.204.245.152:8081/hanumatech/repository/chinni-releases/</url>
+        <id>nexus</id>
+        <name>chinni releases repo</name>
+        <url>http://18.204.245.152:8081/hanumatech/repository/chinni-releases/</url>
     </repository>
     
     <snapshotRepository>
