@@ -12,7 +12,7 @@
      <dependency>
         <groupId>han.spip</groupId>
         <artifactId>simplepip</artifactId>
-        <version>1</version>
+        <version>1-SNAPSHOT</version>
        </dependency>
      <dependency>
             <groupId>javax.servlet</groupId>
