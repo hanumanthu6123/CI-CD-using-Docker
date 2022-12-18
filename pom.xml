@@ -9,13 +9,6 @@
   <url>http://maven.apache.org</url>
 
   <dependencies>
-    <dependency>
-        <groupId>han.spip</groupId>
-        <artifactId>simplepip</artifactId>
-        <version>1</version>
-        <type>war</type>
-      </dependency>
-
      <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
