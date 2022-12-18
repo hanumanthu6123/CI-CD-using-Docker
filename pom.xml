@@ -9,7 +9,6 @@
   <url>http://maven.apache.org</url>
 
   <dependencies>
-
     <dependency>
         <groupId>han.spip</groupId>
         <artifactId>simplepip</artifactId>
