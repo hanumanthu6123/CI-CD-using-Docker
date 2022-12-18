@@ -19,6 +19,20 @@
             <version>5.1.30</version>
         </dependency>
   </dependencies>
+  <distributionManagement>
+   <repository>
+     <id>nexus</id>
+     <name>chinni releases repo</name>
+     <url>http://18.204.245.152:8081/hanumatech/repository/chinni-releases/</url>
+    </repository>
+    
+    <snapshotRepository>
+        <id>nexus</id>
+        <name>chinni snapshort repo</name>
+        <url>http://18.204.245.152:8081/hanumatech/repository/chinni-snapshot/</url>
+    </snapshotRepository>
+
+  </distributionManagement>
   <build>
   <pluginManagement>
    <plugins>
