@@ -7,12 +7,30 @@
   <version>1-SNAPSHOT</version>
   <name>LoginWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
+
+<!--
+  <repositories>
+    <repository>
+        <id>nexus</id>
+        <url>http://34.231.171.109:8081/hanumatech/repository/hanumatech-remote-repo/</url>
+    </repository>
+  </repositories>
+-->
   <dependencies>
+
+    <dependency>
+        <groupId>han.spip</groupId>
+        <artifactId>simplepip</artifactId>
+        <version>1</version>
+        <type>war</type>
+      </dependency>
+
      <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
             <version>2.5</version>
         </dependency>
+
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
