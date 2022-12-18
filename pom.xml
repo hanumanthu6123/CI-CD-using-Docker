@@ -8,14 +8,14 @@
   <name>LoginWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
-<!--
+
   <repositories>
     <repository>
         <id>nexus</id>
         <url>http://34.231.171.109:8081/hanumatech/repository/hanumatech-remote-repo/</url>
     </repository>
   </repositories>
--->
+
   <dependencies>
 
     <dependency>
