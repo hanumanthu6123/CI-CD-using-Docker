@@ -24,13 +24,13 @@
    <repository>
         <id>nexus</id>
         <name>chinni releases repo</name>
-        <url>http://3.227.8.220:8081/hanumatech/repository/chinni-releases/</url>
+        <url>http://34.231.171.109:8081/hanumatech/repository/chinni-releases/</url>
     </repository>
     
     <snapshotRepository>
         <id>nexus</id>
         <name>chinni snapshort repo</name>
-        <url>http://3.227.8.220:8081/hanumatech/repository/chinni-snapshot/</url>
+        <url>http://34.231.171.109:8081/hanumatech/repository/chinni-snapshot/</url>
     </snapshotRepository>
 
   </distributionManagement>
